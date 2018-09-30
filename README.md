@@ -5,5 +5,6 @@ Authenticated users should have the ability to post, edit, and delete their own 
 to use the app do the following steps
 vagrant up command then 
 vagrant ssh 
-to run the application python /vagrant/catalog/project.py
+cd /vagrant
+to run the application python catalog/project.py
 Access and test application by visiting http://localhost:8000 locally on your browser
